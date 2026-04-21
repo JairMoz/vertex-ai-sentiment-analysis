@@ -3,7 +3,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-00L?style=for-the-badge&logo=google-cloud&logoColor=white&color=06162d)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI_ML-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white)
 
 This repository contains the implementation and experimental results of the **Generative AI Studio** laboratory within Google Cloud's **Vertex AI** platform. The project focuses on leveraging Large Language Models (LLMs) for natural language tasks through advanced prompt design and parameter tuning.
 
